@@ -1,8 +1,8 @@
 {
-    "serverAddress": "fbi.gov",
-    "serverName": "Federal Bureau of Investigation",
-    "iconName": "fbi.png",
-    "terminalID": "fbi",
+    "serverAddress": "SecureServ",
+    "serverName": "The Program",
+    "iconName": "",
+    "terminalID": "program",
     "defaultUser": {
         "userId": "user",
         "password": "",
