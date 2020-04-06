@@ -1,13 +1,13 @@
 {
-    "year": "2377",
+    "year": "2019",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "A Night at the Opera",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "Local",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "trustno1"
     },
     "randomSeed": true,
     
